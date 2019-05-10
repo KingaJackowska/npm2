@@ -1,0 +1,27 @@
+{
+  "name": "npm2",
+  "version": "1.0.0",
+  "description": "npm node nauka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingaJackowska/npm2.git"
+  },
+  "keywords": [
+    "nauka",
+    "npm",
+    "node"
+  ],
+  "author": "Kinia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingaJackowska/npm2/issues"
+  },
+  "homepage": "https://github.com/KingaJackowska/npm2#readme",
+  "dependencies": {
+    "colors": "^1.3.3"
+  }
+}
