@@ -1,0 +1,80 @@
+﻿# Logi
+logi
+* .log
+npm-debug.log *
+yarn-debug.log *
+yarn-error.log *
+
+# Dane środowiska wykonawczego
+pids
+* .pid
+* .seed
+* .pid.lock
+
+# Katalog oprzyrządowanych bibliotek generowanych przez jscoverage / JSCover
+lib-cov
+
+# Katalog pokrycia używany przez narzędzia takie jak istanbul
+pokrycie
+
+# pokrycie testu nyc
+.nyc_output
+
+# Grunt pośrednie (https://gruntjs.com/creating-plugins#storing-task-files)
+.chrząknięcie
+
+# Katalog zależności Bower (https://bower.io/)
+bower_components
+
+# Konfiguracja węzła-waf
+.lock-wscript
+
+# Skompilowane dodatki binarne (https://nodejs.org/api/addons.html)
+build / Release
+
+# Katalogi zależności
+node_modules/
+jspm_pakiety /
+
+# Pliki deklaracji TypeScript v1
+typings /
+
+# Opcjonalny katalog pamięci podręcznej npm
+.npm
+
+# Opcjonalna pamięć podręczna eslint
+.eslintcache
+
+# Opcjonalna historia REPL
+.node_repl_history
+
+# Wyjście "paczki npm"
+* .tgz
+
+# Plik integralności przędzy
+.Jasna integralność
+
+# plik zmiennych środowiskowych dotenv
+.env
+.env.test
+
+# cache paczki paczkomatów (https://parceljs.org/)
+.Pamięć podręczna
+
+# next.js buduje wyjście
+.Kolejny
+
+# nuxt.js kompilacja danych wyjściowych
+.nuxt
+
+# wyjście do budowania vuepress
+.vuepress / dist
+
+# Katalogi bezserwerowe
+.serverless /
+
+# Pamięć podręczna FuseBox
+.fusebox /
+
+# Pliki lokalne DynamoDB
+.dynamodb /
